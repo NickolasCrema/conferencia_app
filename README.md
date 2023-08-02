@@ -1,6 +1,6 @@
 # conferencia_app
  
-Aplicativo desenvolvido em freelance, o qual era desejado um aplicativo para conferência das mercadorias.
+Aplicativo para conferência de mercadorias.
 
 <div>
  <h3>Tela de login</h2>
